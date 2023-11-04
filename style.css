@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #000;
+  }
+  th,
+  td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+  }
+
+
+  /* Tips  */
+
+  /* SELECTION PSEUDO ELEMENT */
+  .select::selection {
+    background: red;
+    /* color: white; */
+  }
