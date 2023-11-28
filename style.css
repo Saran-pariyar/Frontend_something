@@ -16,5 +16,4 @@ table {
   /* SELECTION PSEUDO ELEMENT */
   .select::selection {
     background: red;
-    /* color: white; */
   }
